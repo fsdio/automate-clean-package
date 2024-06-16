@@ -2,6 +2,7 @@
   "name": "automate-clean-package",
   "version": "1.0.1",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "depcheck-cleaner": "index.js"
   },
